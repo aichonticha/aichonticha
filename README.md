@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aichonticha
-- 👀 I’m interested in Data science and analytics.
+- 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I'm looking to enhance my own field with machine learning.
+- 💞️ I'm looking to enhance my own field with Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/chonticha-karnjanamukdar-1583b41a5/
 
 <!---
